@@ -1,0 +1,8 @@
+crewai
+openai
+python-dotenv
+crewai-tools
+streamlit
+duckduckgo-search
+litellm
+google-genai
